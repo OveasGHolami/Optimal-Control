@@ -3,7 +3,8 @@
 Optimal Control and Path Planning of a 3PRS Robot Using Indirect Variation Algorithm
 
 
-Cite me: H. Tourajizadeh, O. Gholami, "Optimal Control and Path Planning of a 3prs Robot Using Indirect Variation Algorithm", Robotica, vol. 38, no. 5 (2020): 903-24.
+Cite me: 
+H. Tourajizadeh, O. Gholami, "Optimal Control and Path Planning of a 3prs Robot Using Indirect Variation Algorithm", Robotica, vol. 38, no. 5 (2020): 903-24.
 
 
 
